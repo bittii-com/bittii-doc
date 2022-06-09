@@ -10,13 +10,13 @@ You can use the fully functioning system for 1 week free of charge.
 
 ## Environments
 
-Development environments are our main service. Every environments has developers, and every developer is an user. Users need to be developers of some environment before they can use it.
+Development environments are our main service. Every environment has developers, and every developer is an user. 
 
 ![Environments](/environments.png)
 
 ![Developers](/developers.png)
 
-By clicking the link, the user can start using the development environment via our web IDE, which is based on Eclipse Theia.
+By clicking the link, the user can start using the development environment via our web IDE, which is based on Eclipse Theia. But only if the user is added as a developer for that environment.
 
 ![IDE](/ide.png)
 
