@@ -44,7 +44,7 @@ After that you need to create a token for your environment. Click the lock to se
 After that you can use our REST API to deploy your development environment. This curl command demonstrates the method, but obviously you can and probably should use your favourite DevOps system to do this.
 
 ```bash
-curl -F “token=YOUR_TOKEN_HERE” -F “file=@YOUR_PACKAGE.tar.gz” https://www.bittii.com:8080/image
+curl -F “token=YOUR_TOKEN_HERE” -F “file=@YOUR_PACKAGE.tar.gz” https://www.bittii.com/image
 ```
 
 ## Contact
