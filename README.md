@@ -1,4 +1,4 @@
-# Bittii.com - Development environment as code, with a web based IDE
+# [Bittii.com](https://www.bittii.com) - Development environment as code, with a web based IDE
 
 The most concise way of orchestrating and maintaining a development environment.
 
