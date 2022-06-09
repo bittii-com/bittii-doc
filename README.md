@@ -1,4 +1,4 @@
-# Bittii.com - Development environment as a code, with a web based IDE
+# Bittii.com - Development environment as code, with a web based IDE
 
 The most concise way of orchestrating and maintaining a development environment.
 
@@ -22,7 +22,7 @@ By clicking the link, the user can start using the development environment via o
 
 ## Tokens
 
-Tokens open up the world of development environment as a code. First you need to create a tar.gz package with a sturcture that resembles this:
+Tokens open up the world of development environment as code. First you need to create a tar.gz package with a sturcture that resembles this:
 
 ```bash
 ├── package.tar.gz
