@@ -47,6 +47,14 @@ After that you can use our REST API to deploy your development environment. This
 curl -F “token=YOUR_TOKEN_HERE” -F “file=@YOUR_PACKAGE.tar.gz” https://www.bittii.com/image
 ```
 
+## Testing via proxy
+
+You can use our tool and language agnostic proxy to test your back-end and front-end applications:
+
+https://www.bittii.com/envport/:environmentId/:port/*anythingAfterRoot
+
+Where :environmentId is the id of the environment and :port is the port you have chosen for your application. Please make sure that your application can handle proxy connections.
+
 ## Contact
 
 Email us at hello@bittii.com
