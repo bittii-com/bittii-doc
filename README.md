@@ -22,6 +22,8 @@ By clicking the link, the user can start using the development environment via o
 
 ## Tokens
 
+IMPORTANT: Use *#!/bin/sh* and remember to use Unix-style EOLs.
+
 Tokens open up the world of development environment as code. First you need to create a tar.gz package with a sturcture that resembles this:
 
 ```bash
